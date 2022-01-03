@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gsfalcon&repo=gsfalcon&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gsfalcon&repo=.bat&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsfalcon&count_private=true&show_icons=true&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
