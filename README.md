@@ -22,6 +22,8 @@ Right now, I'm setting my sights on the vast realms of JavaScript and TypeScript
 
 [![gsFALCON's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsfalcon&theme=graywhite&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/gsfalcon)
 
+![gsFALCON's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsfalcon&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true)
+
 ## 📚 Technologies I Love
 
 - Python 🐍
