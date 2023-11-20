@@ -20,7 +20,7 @@ My GitHub space is a dynamic canvas where I paint with the colors of code! 🎨 
 
 Right now, I'm setting my sights on the vast realms of JavaScript and TypeScript. 🚀 Brace yourself for some out-of-this-world projects and discoveries!
 
-[![gsFALCON's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsfalcon&theme=graywhite&hide_border=true&include_all_commits=true)](https://github.com/gsfalcon)
+[![gsFALCON's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsfalcon&theme=graywhite&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/gsfalcon)
 
 ## 📚 Technologies I Love
 
