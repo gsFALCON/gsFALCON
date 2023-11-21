@@ -34,7 +34,6 @@ Right now, I'm setting my sights on the vast realms of JavaScript and TypeScript
 Let's embark on this coding odyssey together! 🚀 Feel free to connect with me through:
 
 - 🔗 Site: [gsFALCON.dev](https://gsfalcon.github.io)
-- 🐦 Twitter: [@gsFALCON_dev](https://twitter.com/gsFALCON_dev)
 - 📧 Email: gsfalcon@proton.me
 
 ## 🚨 Disclaimer
