@@ -1,11 +1,3 @@
-## 🚀 About Me
-
-- 🎓 Graduated in Systems of Information
-- 🏆 Certified Adobe Web Designer CS3
-- 🐍 Python Enthusiast
-- 🕸️ Web Scraping Lover
-- 🌟 Aspiring JavaScript & TypeScript Explorer
-
 ## 💡 What You'll Find Here
 
 My GitHub space is a dynamic canvas where I paint with the colors of code! 🎨 Expect to find a blend of Python scripts, web scraping adventures, and soon, the magic of JavaScript and TypeScript. 🚀
